@@ -1,4 +1,4 @@
-package WorkingWithAchive;
+package WorkingWithArchive;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
